@@ -1,0 +1,6 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+boto3  # Optional, but included since I used it
