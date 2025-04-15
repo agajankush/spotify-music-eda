@@ -74,7 +74,6 @@ There is only one file to understand this project,
 * Explore other machine learning models (e.g., Gradient Boosting).
 * Perform hyperparameter tuning to optimize model performance.
 * Analyze time-based trends in popularity.
-* Investigate the impact of artist popularity on song popularity.
 * Develop a web application to visualize and interact with the results.
 * Implement a song recommendation system based on audio features.
 
@@ -82,9 +81,6 @@ There is only one file to understand this project,
 
 Contributions to this project are welcome! If you have suggestions for improvements, new analyses, or bug fixes, please feel free to submit a pull request.
 
-## 📄 License
-
-[Your License] (e.g., MIT License)
 
 ## 📧 Contact
 
