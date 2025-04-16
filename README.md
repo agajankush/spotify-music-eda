@@ -31,7 +31,7 @@ This repository contains the code and resources for data cleaning, exploratory d
 1.  **Clone the repository:**
 
     ```bash
-    git clone [https://github.com/agajankush/spotify-music-eda.git](https://github.com/agajankush/spotify-music-eda.git)
+    git clone https://github.com/agajankush/spotify-music-eda.git
     cd spotify-music-eda
     ```
 
